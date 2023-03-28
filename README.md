@@ -8,9 +8,9 @@ KELOMPOK 3 - GENERATE CERTIFICATE
 
 ANGGOTA KELOMPOK :
 
-Rosita Fauziah
-Fany Ayu Saputri
-Geea Anastasya Suratman
-Nur Aliyah
-Risma Awaliyah Savitri
-Siti Nurjannah
+- Rosita Fauziah
+- Fany Ayu Saputri
+- Geea Anastasya Suratman
+- Nur Aliyah
+- Risma Awaliyah Savitri
+- Siti Nurjannah
